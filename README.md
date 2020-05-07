@@ -9,17 +9,17 @@ Aqui não existe errado nem certo, apenas queremos verificar como escreve e como
 - incluir um item na lista de _todos_;
 - marcar/desmarcar um item da lista de _todos_ como finalizado;
 - excluir um item da lista de _todos_;
-- adicionar um layout a essa lista (não precisa ser nada digno de prêmio, apenas deixe 'bonitinho')
-- documentar como rodar a aplicação
+- adicionar um layout a essa lista (não precisa ser nada digno de prêmio, apenas deixe 'bonitinho');
+- documentar como rodar a aplicação.
 
 # Opcional
-- persistir a lista de _todos_
-- itens marcados como finalizado devem ser apresentados ao final da lista com a indicação de que foi concluído
+- persistir a lista de _todos_;
+- itens marcados como finalizado devem ser apresentados ao final da lista com a indicação visual de que foi concluído.
 
 # Notas
 - utilização de boas práticas no react (ex. AirBnB Style Guide);
 - não esqueça dos testes unitários.
 
 # Não esqueça!
-- antes de iniciar o teste, faço um fork desse respositório.
-- ao finalizar, abra um PR e nos envie o link para o email gustavo.ribeiro@goldengatetec.com.br
+- antes de iniciar o teste, faço um fork desse respositório;
+- ao finalizar, abra um PR e nos envie o link para o email gustavo.ribeiro@goldengatetec.com.br.
