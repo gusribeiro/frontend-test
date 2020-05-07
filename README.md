@@ -18,7 +18,8 @@ Aqui não existe errado nem certo, apenas queremos verificar como escreve e como
 
 # Notas
 - utilização de boas práticas no react (ex. AirBnB Style Guide);
-- não esqueça dos testes unitários.
+- não esqueça dos testes unitários;
+- não deixe para fazer apenas um commit de tudo no final, quebre-os por atividade.
 
 # Não esqueça!
 - antes de iniciar o teste, faço um fork desse respositório;
