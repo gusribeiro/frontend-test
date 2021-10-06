@@ -23,4 +23,4 @@ Aqui não existe errado nem certo, apenas queremos verificar como escreve e como
 
 # Não esqueça!
 - antes de iniciar o teste, faço um fork desse respositório;
-- ao finalizar, abra um PR e nos envie o link para o email gustavo.ribeiro@goldengatetec.com.br.
+- ao finalizar, abra um PR e nos envie o link para que seja avaliado.
