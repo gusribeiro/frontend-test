@@ -22,5 +22,5 @@ Aqui não existe errado nem certo, apenas queremos verificar como escreve e como
 - não deixe para fazer apenas um commit de tudo no final, quebre-os por atividade.
 
 # Não esqueça!
-- antes de iniciar o teste, faço um fork desse respositório;
+- antes de iniciar o teste, faça um fork desse respositório;
 - ao finalizar, abra um PR e nos envie o link para que seja avaliado.
