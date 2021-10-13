@@ -17,7 +17,7 @@ Aqui não existe errado nem certo, apenas queremos verificar como escreve e como
 - itens marcados como finalizado devem ser apresentados ao final da lista com a indicação visual de que foi concluído.
 
 # Notas
-- utilização de boas práticas no react (ex. AirBnB Style Guide);
+- utilização de boas práticas, style guides etc
 - não esqueça dos testes unitários;
 - não deixe para fazer apenas um commit de tudo no final, quebre-os por atividade.
 
